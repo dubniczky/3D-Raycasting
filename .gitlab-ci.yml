@@ -1,0 +1,13 @@
+stages:
+  - deploy
+
+pages:
+  stage: deploy
+  only:
+    - main
+  artifacts:
+    paths:
+      - public
+  script:
+    # Run deploy script
+    - ./deploy.sh
