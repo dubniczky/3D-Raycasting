@@ -9,5 +9,7 @@ pages:
     paths:
       - public
   script:
+    # Add run premission to deploy script
+    - chmod +x ./deploy.sh
     # Run deploy script
     - ./deploy.sh
