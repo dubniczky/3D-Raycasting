@@ -1,0 +1,11 @@
+{
+  "name": "3d-raycasting",
+  "version": "1.0.0",
+  "description": "Web demo of a custom traversable 2D map with 3D simulated visuals using raycasting",
+  "main": "index.html",
+  "author": "Richard Antal Nagy",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.22.0"
+  }
+}
