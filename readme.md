@@ -1,7 +1,9 @@
-# 3D Ray Casting
+# 3D Raycasting
 
-A web demo of a traversable 2D map with 3D visuals. 3D effect is achieved with a technique called "ray casting", where for every rendered vertical pixel of the screen, a ray is cast from the camera object and a collision with an object in 2D pace is recorded. The wall is drawn based on the programmed characteristics and distance of the object hit.
+A web demo of a traversable 2D map with 3D visuals. 3D effect is achieved with a technique called "ray casting", where for every rendered vertical pixel of the screen, a ray is cast from the camera object and the first collision with an object in 2D space is recorded. The wall is drawn based on the programmed characteristics and distance of the object hit.
 
-## Live Demo
+## Support ❤️
 
-https://richardnagy.gitlab.io/webprojects/3d-ray-casting/
+If you find the project useful, please consider supporting, or contributing.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/dubniczky)
