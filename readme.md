@@ -7,3 +7,7 @@ A web demo of a traversable 2D map with 3D visuals. 3D effect is achieved with a
 If you find the project useful, please consider supporting, or contributing.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/dubniczky)
+
+## Math
+
+Source reference: [clemson.edu pdf](https://people.cs.clemson.edu/~dhouse/courses/405/notes/raycast.pdf)
